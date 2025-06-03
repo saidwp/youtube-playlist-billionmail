@@ -1,0 +1,5 @@
+ganti email ini dengan email kamu sendiri. per-baris per-email
+
+
+emailkamu1@mail.com
+emailkamu2@mail.com
